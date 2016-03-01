@@ -1,0 +1,2 @@
+/usr/bin/nagios -d
+process is running on this host
